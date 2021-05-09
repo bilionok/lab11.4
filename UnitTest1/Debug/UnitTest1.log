@@ -1,0 +1,8 @@
+﻿  pch.cpp
+  UnitTest1.cpp
+C:\Users\Arsen\source\repos\11_4\11_4\11_4.cpp(240,11): warning C4244: инициализация: преобразование "std::streamoff" в "int", возможна потеря данных
+C:\Users\Arsen\source\repos\11_4\11_4\11_4.cpp(273,11): warning C4244: инициализация: преобразование "std::streamoff" в "int", возможна потеря данных
+C:\Users\Arsen\source\repos\11_4\11_4\11_4.cpp(354,11): warning C4244: инициализация: преобразование "std::streamoff" в "int", возможна потеря данных
+C:\Users\Arsen\source\repos\11_4\11_4\11_4.cpp(426,11): warning C4244: инициализация: преобразование "std::streamoff" в "int", возможна потеря данных
+     Создается библиотека C:\Users\Arsen\source\repos\11_4\Debug\UnitTest1.lib и объект C:\Users\Arsen\source\repos\11_4\Debug\UnitTest1.exp
+  UnitTest1.vcxproj -> C:\Users\Arsen\source\repos\11_4\Debug\UnitTest1.dll
